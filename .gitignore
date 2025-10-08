@@ -1,0 +1,12 @@
+# Entorno virtual de Python
+.venv/
+__pycache__/
+
+# Archivos de base de datos y logs
+*.db
+*.log
+proceso_etl.log
+proyecto.db
+
+# Archivos de VS Code
+.vscode/
